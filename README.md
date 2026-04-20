@@ -1,8 +1,6 @@
 <h2 align="center">
 😈Exploring the Capability Boundaries of LLMs in Mastering of Chinese Chouxiang Language😇
 </h2>
-<img width="2072" height="1204" alt="db137dadaf12490ca85026d39612313a" src="https://github.com/user-attachments/assets/4506ca58-2c94-4a29-93a6-52d6672fe6b3" />
-
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/ACL-2026-green">
@@ -27,7 +25,8 @@
 	* equal contribution † corresponding author
     <br>
 </div>
- 
+
+<img width="2072" height="1204" alt="db137dadaf12490ca85026d39612313a" src="https://github.com/user-attachments/assets/4506ca58-2c94-4a29-93a6-52d6672fe6b3" />
 
 Paper: [Exploring the Capability Boundaries of LLMs in Mastering of Chinese Chouxiang Language](https://arxiv.org/abs/2604.15841)
 
