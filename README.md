@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/ACL-2026-Findings-green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ACL%202026%20Findings-green">
   <img src="https://img.shields.io/badge/License-MIT%204.0-blue.svg">
 </p>
 
