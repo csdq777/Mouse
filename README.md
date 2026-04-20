@@ -1,9 +1,8 @@
-# Exploring the Capability Boundaries of LLMs in Mastering of Chinese Chouxiang Language
+<h2 align="center">
+😈Exploring the Capability Boundaries of LLMs in Mastering of Chinese Chouxiang Language😇
+</h2>
 <img width="2072" height="1204" alt="db137dadaf12490ca85026d39612313a" src="https://github.com/user-attachments/assets/4506ca58-2c94-4a29-93a6-52d6672fe6b3" />
 
-<h2 align="center">
-😈McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models😇
-</h2>
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/ACL-2026-green">
@@ -25,10 +24,9 @@
 <br>
 <div align="center">
     <sup>1</sup>College of Computer Science, Inner Mongolia University, China&emsp;
+	* equal contribution † corresponding author
     <br>
 </div>
-\* equal contribution
-\† corresponding author
  
 
 Paper: [Exploring the Capability Boundaries of LLMs in Mastering of Chinese Chouxiang Language](https://arxiv.org/abs/2604.15841)
