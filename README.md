@@ -23,7 +23,7 @@
 <div align="center">
     <sup>1</sup>College of Computer Science, Inner Mongolia University, China&emsp;
     <br>
-    <sup>1</sup>* equal contribution, † corresponding author&emsp;
+    * equal contribution, † corresponding author&emsp;
     <br>
 </div>
 
