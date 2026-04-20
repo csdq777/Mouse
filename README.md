@@ -5,7 +5,6 @@
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/ACL-2026-green">
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=Findings&logoColor=white">
 </p>
 
 <div align="center"style="font-family: charter; font-size: x-small;">
