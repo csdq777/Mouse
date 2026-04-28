@@ -40,5 +40,17 @@ Dataset: https://huggingface.co/datasets/ollabalala/MOUSE
 
 While large language models (LLMs) have achieved remarkable success in general language tasks, their performance on Chouxiang Language, a representative subcultural language in the Chinese internet context, remains largely unexplored. In this paper, we introduce Mouse, a specialized benchmark designed to evaluate the capabilities of LLMs on NLP tasks involving Chouxiang Language across six tasks. Experimental results show that, current state-of-the-art (SOTA) LLMs exhibit clear limitations on multiple tasks, while performing well on tasks that involve contextual semantic understanding. In addition, we further discuss the reasons behind the generally low performance of SOTA LLMs on Chouxiang Language, examine whether the LLM-as-a-judge approach adopted for translation tasks aligns with human judgments and values, and analyze the key factors that influence Chouxiang translation. Our study aims to promote further research in the NLP community on multicultural integration and the dynamics of evolving internet languages. Our code and data are publicly available.
 
+<h2 align="center">
+✒️Citation
+</h2>
+
+<pre><code>
+@article{lin2026exploring,
+  title={Exploring the Capability Boundaries of LLMs in Mastering of Chinese Chouxiang Language},
+  author={Lin, Dianqing and Lan, Tian and Zhu, Jiali and Li, Jiang and Chen, Wei and Liu, Xu and Su, Xiangdong and Hou, Hongxu and Gao, Guanglai and others},
+  journal={arXiv preprint arXiv:2604.15841},
+  year={2026}
+}
+</code></pre>
 
 
